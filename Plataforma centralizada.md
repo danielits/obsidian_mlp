@@ -9,3 +9,7 @@ whatsapp donde se informa por ejemplo bombas fuera de servicio, esta dividido po
 jefe de sala es el que filtra y entrega la informacion que hay que entregar
 
 estandarizar el front 
+
+
+
+s
