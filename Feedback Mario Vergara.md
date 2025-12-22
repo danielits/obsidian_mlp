@@ -1,0 +1,1 @@
+- [ ] Estudiar sobre matriz RACI
