@@ -6,3 +6,7 @@
 
 
 
+- [ ] Ver actualziacion de tags al cambiar campañas, conversar con Oscar
+- [ ] Cuanto tonelaje se pierde por toneladas de bajada de velocidad por alto ruido, para ver algo antes de lo que hace Oscar, que toma accion automaticamente
+
+

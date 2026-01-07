@@ -37,3 +37,8 @@ definir nombres nuevos con oscar y cambiar la historia
 AVISO LUEGO OT; aviso es aviso q hay un problema y despues alguien crea una OT en base a ese aviso
 
 añadir glosario de los estados
+
+
+
+
+Supervisor [son 7x7 y debiesen haber 4], no supervisan a los viejos, sino al contrato (nexo directo con supervisores de Cummins) > Jefe de turno [7x7 son 2, solo turno dia] > Senior de mantenimiento (Luis Cid, por confirmar)      **Quizas no hay jefes de turno en la figura y es solo jefe de los supervisores
