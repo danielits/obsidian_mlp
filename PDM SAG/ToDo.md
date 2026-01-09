@@ -10,3 +10,11 @@
 - [ ] Cuanto tonelaje se pierde por toneladas de bajada de velocidad por alto ruido, para ver algo antes de lo que hace Oscar, que toma accion automaticamente
 
 
+porecentaje de ruido actual va a desaparecer, seguirá funcionando audiomill
+
+
+añadir porcentaje de solido a variables de entrada al modelo
+
+
+variables controladas: celda de carga, porcentaje de solido
+se setea la velocidad, tph
