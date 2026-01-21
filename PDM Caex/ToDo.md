@@ -42,3 +42,24 @@ añadir glosario de los estados
 
 
 Supervisor [son 7x7 y debiesen haber 4], no supervisan a los viejos, sino al contrato (nexo directo con supervisores de Cummins) > Jefe de turno [7x7 son 2, solo turno dia] > Senior de mantenimiento (Luis Cid, por confirmar)      **Quizas no hay jefes de turno en la figura y es solo jefe de los supervisores
+
+
+
+
+fugas de refrigerante y de aceite son los que dejan detenidos los caex en la mina, o fallas electricas
+
+oscar dice q actualmente no podemos prevenir camiones parados porque no tenemos eso parámetros, pero es mucho mas fácil q los viejos revisen los niveles.
+
+Falta incorporar camiones MTU, mejor actualización de horómetros, que te avisen cuando han cambiado los motores. orden de criticidad o prevenir casos tiene q ver mas con los moncon q con la herramienta
+
+ejecución nunca ha tenido la herramienta en su proceso, por otro lado, nadie pesca lo que dice moncon. procesos podría hacer sinergia con los de ejecución, acabar con lo de q alguien dice q es buen aviso, otro con mal aviso. necesitamos el feedback de gestion de las alertas, entonces no podemos mejorar el patron de alerta. nos piden mejorarlo pero no tenemos feedback
+
+pedir las causas de detención en pista del año pasado
+
+
+el espíritu de la herramienta actual es gestion de alerta y prevenir fallas catastróficas, detenciones en pista ya lo tiene minecare
+
+seria bueno saber donde emiten las alertas minecare y contar por ejemplo las de refrigerante
+
+
+Fernando quiere generar avisos, Luis cid no quiere porque les pega en sus kpis. aviso sap sirve pa meter presión. falta aliado para esto, puede ser super de confiabilidad, Fernando (principal), Claudio quizas. Mas que enfocarnos en que no quieren el aviso por pegarle al kpi deberiamos hacer una conversacion del tipo de alertas lleguen para no spamear y que genere valor tanto para ellos como para nosotros

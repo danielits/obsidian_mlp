@@ -18,3 +18,4 @@ añadir porcentaje de solido a variables de entrada al modelo
 
 variables controladas: celda de carga, porcentaje de solido
 se setea la velocidad, tph
+
