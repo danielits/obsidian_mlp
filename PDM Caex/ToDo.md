@@ -63,3 +63,5 @@ seria bueno saber donde emiten las alertas minecare y contar por ejemplo las de 
 
 
 Fernando quiere generar avisos, Luis cid no quiere porque les pega en sus kpis. aviso sap sirve pa meter presión. falta aliado para esto, puede ser super de confiabilidad, Fernando (principal), Claudio quizas. Mas que enfocarnos en que no quieren el aviso por pegarle al kpi deberiamos hacer una conversacion del tipo de alertas lleguen para no spamear y que genere valor tanto para ellos como para nosotros
+
+baja presión de combustible por filtro saturado es el motivo principal de baja potencia en los camiones MCRS. por semana unos 3 o 4 camiones caen por baja potencia. baja potencia se avisan por códigos, de aviso a mas criticidad
