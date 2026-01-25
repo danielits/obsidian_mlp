@@ -19,3 +19,6 @@ condicio0n con JOSE
 si hay alerta nueva y se tenia una sin tomar, se cierra la anterior y la neuva se añade. si la anterior ya se tomo la nueva se elimina, pero si ha estado en gestion por mas de 2 meses la nueva se mantiene y se cierra la anterior.
 
 Ademas solo agarra el asunto Alerta PdM CAEX. asi que si utilizo Test PdM CAEX puedo probar tranquilo
+
+
+.
